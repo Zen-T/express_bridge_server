@@ -1,5 +1,6 @@
 Goal:
-    "chat-server.js" defined a nodejs express server that act as a bridge forwarding post request to OpenAI chat API using https protocol
+
+    "chat-server.js" defined a nodejs express server that acts as a bridge forwarding post request to OpenAI chat API using HTTPS protocol
 
 Usage：
 
